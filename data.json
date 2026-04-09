@@ -1,4 +1,60 @@
 {
-  "clans": [],
+  "clans": [
+    {
+      "id": 1775690254827,
+      "name": ":",
+      "leader": ":",
+      "description": "",
+      "score_week": 5,
+      "score_month": 5,
+      "score_year": 5,
+      "created_at": "2026-04-08T23:17:34.827Z",
+      "likes": 104
+    },
+    {
+      "id": 1775690828691,
+      "name": "WORKER ",
+      "leader": "JIN WOO WORKER ",
+      "description": "â€”-",
+      "score_week": 0,
+      "score_month": 0,
+      "score_year": 0,
+      "created_at": "2026-04-08T23:27:08.691Z",
+      "likes": 1
+    },
+    {
+      "id": 1775690868145,
+      "name": "SOLITAIRE ",
+      "leader": "T H A N O S ",
+      "description": "",
+      "score_week": 0,
+      "score_month": 0,
+      "score_year": 0,
+      "created_at": "2026-04-08T23:27:48.145Z",
+      "likes": 1
+    },
+    {
+      "id": 1775690887518,
+      "name": "ð™ð„ð“ð’ð” ",
+      "leader": "BLACK ð“ðŽððˆ ",
+      "description": "",
+      "score_week": 0,
+      "score_month": 0,
+      "score_year": 0,
+      "created_at": "2026-04-08T23:28:07.518Z",
+      "likes": 1
+    },
+    {
+      "id": 1775692249168,
+      "name": "B M F ",
+      "leader": "Mr ALL BLACK",
+      "description": "",
+      "score_week": 0,
+      "score_month": 0,
+      "score_year": 0,
+      "created_at": "2026-04-08T23:50:49.168Z",
+      "likes": 1
+    }
+  ],
   "forum": []
 }
