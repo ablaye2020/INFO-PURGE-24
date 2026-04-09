@@ -78,17 +78,6 @@
       "created_at": "2026-04-09T02:53:01.112Z"
     },
     {
-      "id": 1775703204605,
-      "name": "ð™Žð˜¼ð˜¿ð™€ð™ð™Ž ",
-      "leader": "ð‘®ð‘¹ð‘¨ð‘«ð’€ ð™Žð˜¼ð˜¿ð™€ð™ð™Ž ",
-      "description": "",
-      "score_week": 22,
-      "score_month": 22,
-      "score_year": 22,
-      "likes": 0,
-      "created_at": "2026-04-09T02:53:24.605Z"
-    },
-    {
       "id": 1775703223625,
       "name": "DEVOREURE",
       "leader": "La faucheuse ",
@@ -177,17 +166,6 @@
       "created_at": "2026-04-09T03:08:43.387Z"
     },
     {
-      "id": 1775704459605,
-      "name": "ï¼´ï¼¨ï¼¥ BLACK ",
-      "leader": "Incomplet ",
-      "description": "",
-      "score_week": 11,
-      "score_month": 11,
-      "score_year": 11,
-      "likes": 0,
-      "created_at": "2026-04-09T03:14:19.605Z"
-    },
-    {
       "id": 1775704490455,
       "name": "O X 7",
       "leader": "Incomplet ",
@@ -241,6 +219,28 @@
       "score_year": 250,
       "likes": 0,
       "created_at": "2026-04-09T14:32:25.957Z"
+    },
+    {
+      "id": 1775745944748,
+      "name": "  SADEUS ",
+      "leader": "Grady sadeus ",
+      "description": "",
+      "score_week": 22,
+      "score_month": 22,
+      "score_year": 22,
+      "likes": 0,
+      "created_at": "2026-04-09T14:45:44.748Z"
+    },
+    {
+      "id": 1775745980128,
+      "name": "THE BLACK ",
+      "leader": "Incomplet ",
+      "description": "",
+      "score_week": 11,
+      "score_month": 11,
+      "score_year": 11,
+      "likes": 0,
+      "created_at": "2026-04-09T14:46:20.128Z"
     }
   ],
   "forum": []
